@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You've stumbled upon the source of my blog.
 
-Things you may want to cover:
+It's hosted on github pages,
 
-* Ruby version
+It uses jekyll for it's static pages.
 
-* System dependencies
+Upon running of the `rails s` dev server, it will build the jekyll html
+in the `public` directory.
 
-* Configuration
+That public folder is its [OWN github repository](https://github.com/beaukinstler/beaukinstler), which when pushed up to GH, 
+will be beaukinstler.com.
 
-* Database creation
+So, edit the post in _posts, according to jekyll naming convention,
+save, run puma on the app, then commit the chages int he public folder, then push the 
+public folder. 
 
-* Database initialization
+if all is well, commit the root folder, and push up to GH for safe keeping.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
