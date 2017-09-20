@@ -4,7 +4,7 @@ title:  "Welcome to my blog!"
 date:   2017-09-20 14:23:34
 categories: intro 
 ---
-This is just a quick post to get the ball rolling, and make sure bits are in order. Would want to get caught with my oughts swapped.
+This is just a quick post to get the ball rolling, and make sure all the bits are in order. Would not want to get caught with my oughts swapped.
 
 Check out the [twitter feed][bklink] for mostly random things, but I think it trends a bit infosec. I guess that's the click-bait I fall for the most.
 You can also find me on [Github][bklink-gh]. 
