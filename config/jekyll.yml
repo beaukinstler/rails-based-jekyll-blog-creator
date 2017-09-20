@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Beau Kinstler's Blog: I think I'm the only Beau Kinstler that's ever lived
   so you're probably in the right place if you're looking for info like:
   Who is Beau Kinstler? What's he about?
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://beaukinstler.com" # the base hostname & protocol for your site
 twitter_username: beaukinstler
 github_username:  beaukinstler
