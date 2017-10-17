@@ -1,12 +1,12 @@
 # Site settings
-title: Beau Kinstler Info
+title: Beau Kinstler
 email: beau@beaukinstler.info
 description: > # this means to ignore newlines until "baseurl:"
   Beau Kinstler's Blog: I think I'm the only Beau Kinstler that's ever lived
   so you're probably in the right place if you're looking for info like:
   Who is Beau Kinstler? What's he about?
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://beaukinstler.com" # the base hostname & protocol for your site
+baseurl: "/beaukinstler" # the subpath of your site, e.g. /blog/
+url: "http://beaukinstler.github.io" # the base hostname & protocol for your site
 twitter_username: beaukinstler
 github_username:  beaukinstler
 

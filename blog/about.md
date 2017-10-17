@@ -15,7 +15,7 @@ So, a couple of my initial projects when I first signed on as IT Manager were ex
 
 These early projects and the lessons in why data can be so critical to success have stuck with me over the years. I like to make work count and use the systems and data around them to help us answer questions, relieve pain points, and make work more fulfilling for people that can make great decisions.
 
-Note: If you happened upon this site looking for music, because that's a think I used to do, please feel free to send me an email, and I'll send you some links. I think you can find a few old songs on Spotify and Apple Music, if that suits you.
+Note: If you happened upon this site looking for music, because that's a thing I used to do, please feel free to send me an email, and I'll send you some links. I think you can find a few old songs on Spotify and Apple Music, if that suits you.
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)-->
 
