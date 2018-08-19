@@ -20,7 +20,7 @@ TODO: on that...
 
 - Jekyll
     - Its a framework for making static-paged websites. 
-        - Pro: Static pages are much less at rist for attack and compromise. 
+        - Pro: Static pages are much less at risk for attack and compromise. 
         - Con: Becuase it's static, dynamic content isn't really the main focuse of the app.  So, it's more suited to something like a blog, or static info site.
 
 [bklink]:      https://twitter.com/beaukinstler
